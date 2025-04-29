@@ -7,14 +7,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<!-- You can add social media icons or badges here later if you want -->
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
