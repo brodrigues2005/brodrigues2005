@@ -66,6 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brodrigues2005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brodrigues2005&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
